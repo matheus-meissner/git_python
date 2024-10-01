@@ -1,0 +1,16 @@
+# Ignorar diretórios de sistema
+$Recycle.Bin/
+System Volume Information/
+Windows/
+Program Files/
+Program Files (x86)/
+pagefile.sys
+swapfile.sys
+hiberfil.sys
+*.log
+*.tmp
+*.rar
+
+# Ignorar outros arquivos desnecessários
+*.dll
+*.sys
